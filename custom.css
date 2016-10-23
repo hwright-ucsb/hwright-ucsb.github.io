@@ -5,3 +5,11 @@ body {
   padding: 3rem 1.5rem;
   text-align: center;
 }
+.contact-page {
+  padding: 3rem 1.5rem;
+  text-align: left;
+}
+.publications-page {
+  padding: 3rem 1.5rem;
+  text-align: left;
+}

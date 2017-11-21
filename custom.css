@@ -29,8 +29,8 @@
 .navbar-default .navbar-nav > .open > a,
 .navbar-default .navbar-nav > .open > a:hover,
 .navbar-default .navbar-nav > .open > a:focus {
-    color: #555;
-    background-color: #D5D5D5;
+    color: #808000;
+    background-color: #008000;
 }
 /* Caret */
 .navbar-default .navbar-nav > .dropdown > a .caret {

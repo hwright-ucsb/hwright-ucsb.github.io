@@ -6,7 +6,7 @@
 }
 /* Title */
 .navbar-default .navbar-brand {
-    color: #777;
+    color: #BB8FCE;
 }
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
@@ -14,11 +14,11 @@
 }
 /* Link */
 .navbar-default .navbar-nav > li > a {
-    color: #777;
+    color: #FFC300;
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-    color: #333;
+    color: #BB8FCE;
 }
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,

@@ -2,6 +2,9 @@
  * Mobirise v4 theme (https://mobirise.com/)
  * Copyright 2017 Mobirise
  */
+
+
+
 section {
     background-color: #FFFFFF;
 }
@@ -70,6 +73,7 @@ textarea[type="hidden"] {
 body {
   position: relative;
 }
+
 
 section {
   background-position: 50% 50%;
